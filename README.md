@@ -11,8 +11,10 @@ License
 Getting Started
 To get started with the projects in this repository, follow the steps below:
 
-Installation: Make sure you have Thonny installed on your computer. If you don't have it, you can download it from the official Thonny website here.
+Installation: Make sure you have Thonny installed on your computer. If you don't have it, you can download it from the official Thonny website here:
+https://thonny.org/
 
+Then
 Clone the Repository: Clone this repository to your local machine using the following command:
 
 bash
